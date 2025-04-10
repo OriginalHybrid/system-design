@@ -51,6 +51,8 @@ A fast, memory-efficient, and fault-tolerant **rate limiter** with:
 - Tokens refill at a constant rate (`refill_rate`).
 - If enough tokens, request is allowed.
 - If not, the request is denied.
+
+
 ![Rate Limiter Token 1](images/rl-token1.png)
 
 ![Rate Limiter Token 2](images/rl-token2.png)
