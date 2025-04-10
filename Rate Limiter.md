@@ -41,6 +41,8 @@ A fast, memory-efficient, and fault-tolerant **rate limiter** with:
         (Optional: for distributed sharing)
 ```
 
+![Rate Limiter ](images/rl.png)
+
 ---
 
 ## 🧠 Algorithms
